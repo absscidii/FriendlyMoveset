@@ -42,7 +42,6 @@ changeAnim(12463072679,18179181663)
 changeAnim(12467789963,13294790250)
 changeAnim(13813099821,0)
 changeAnim(12460977270,17799224866)
-
 local player = game.Players.LocalPlayer
 
 
